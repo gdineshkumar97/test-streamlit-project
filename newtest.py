@@ -18,7 +18,7 @@ data2 = pd.DataFrame({
 data3 = pd.DataFrame({
     'Name': ['Mark', 'Emma', 'Kumar', 'Dinesh', 'Liam'],
     'Age': [32, 23, 28, 29, 27],
-    'City': ['Seattle', 'Boston', 'Atlanta', 'Denverr', 'Miamii']
+    'City': ['Seattle', 'Boston', 'Atlanta', 'Denver', 'Miamii']
 })
 
 # Initialize SessionState for managing state across re-runs
