@@ -16,7 +16,7 @@ data2 = pd.DataFrame({
 })
 
 data3 = pd.DataFrame({
-    'Name': ['Mark', 'Emma', 'Oliver', 'Sophia', 'Liam'],
+    'Name': ['Mark', 'Emma', 'Kumar', 'Dinesh', 'Liam'],
     'Age': [32, 23, 28, 29, 27],
     'City': ['Seattle', 'Boston', 'Atlanta', 'Denver', 'Miami']
 })
