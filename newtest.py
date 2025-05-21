@@ -15,6 +15,32 @@ data2 = pd.DataFrame({
     'City': ['Philadelphia', 'San Antonio', 'San Diego', 'Dallas', 'San Jose']
 })
 
+data2 = pd.DataFrame({
+    'Name': ['Mike', 'Emily', 'Tom', 'Ben', 'Alice'],
+    'Age': [29, 27, 26, 31, 24],
+    'City': ['Philadelphia', 'San Antonio', 'San Diego', 'Dallas', 'San Jose']
+})
+data2 = pd.DataFrame({
+    'Name': ['Mike', 'Emily', 'Tom', 'Ben', 'Alice'],
+    'Age': [29, 27, 26, 31, 24],
+    'City': ['Philadelphia', 'San Antonio', 'San Diego', 'Dallas', 'San Jose']
+})
+data2 = pd.DataFrame({
+    'Name': ['Mike', 'Emily', 'Tom', 'Ben', 'Alice'],
+    'Age': [29, 27, 26, 31, 24],
+    'City': ['Philadelphia', 'San Antonio', 'San Diego', 'Dallas', 'San Jose']
+})
+data2 = pd.DataFrame({
+    'Name': ['Mike', 'Emily', 'Tom', 'Ben', 'Alice'],
+    'Age': [29, 27, 26, 31, 24],
+    'City': ['Philadelphia', 'San Antonio', 'San Diego', 'Dallas', 'San Jose']
+})
+data2 = pd.DataFrame({
+    'Name': ['Mike', 'Emily', 'Tom', 'Ben', 'Alice'],
+    'Age': [29, 27, 26, 31, 24],
+    'City': ['Philadelphia', 'San Antonio', 'San Diego', 'Dallas', 'San Jose']
+})
+
 data3 = pd.DataFrame({
     'Name': ['Mark', 'Emma', 'Kumar', 'Dinesh', 'Liam'],
     'Age': [32, 23, 28, 29, 27],
